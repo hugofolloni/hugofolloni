@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugofolloni
-- 👀 I’m interested in evolve and learn to progress on IT area.
-- 🌱 I’m currently learning Python with Tkinter, besides HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on simple projects, because I'm starting right now on the area. My future goals are to live in Canada, USA or UK, searching for a better life.
+- 👀 I’m like to learn and progress on IT area, because I love it since I was a child.
+- 🌱 I’m currently learning HTML, CSS and JavaScript, because I want to be a front-end web developer.
+- 💞️ I’m looking to collaborate on projects that will help me to evolve, because I'm starting right now on the area and want to learn as much as I can. My future goals are to live abroad, searching for new opportunities outside my country, Brazil.
 - 📫 How to reach me: Twitter @hugofolloni, instagram @hugofolloni and email hugofollogua07@gmail.com
 
 <!---
