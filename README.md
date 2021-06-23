@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that will help me to evolve, because I'm starting right now on the area and want to learn as much as I can. My future goals are to live abroad, searching for new opportunities outside my country, Brazil.
 - 📫 How to reach me: Twitter @hugofolloni, instagram @hugofolloni and email hugofollogua07@gmail.com
 
-![HugoFolloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofolloni&show_icons=true&theme=onedark)
+![HugoFolloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofolloni&show_icons=true&theme=synthwave)
 
 <!---
 hugofolloni/hugofolloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
