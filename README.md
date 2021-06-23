@@ -6,6 +6,7 @@ I'm a Computer Science student at UFRJ, Brazil, looking to work on this area.
 [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](https://github.com/hugofolloni)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://github.com/hugofolloni) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://github.com/hugofolloni) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='40'>](https://github.com/hugofolloni) 
 
 [![Spotify](https://hugofolloni.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[<img src="https://spotify-hugo.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />]
 
 
 - 🔭 I’m currently working on CityWeather and some other personal projects.
