@@ -5,6 +5,7 @@
 - 📫 How to reach me: Twitter @hugofolloni, instagram @hugofolloni and email hugofollogua07@gmail.com
 
 [![HugoFolloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofolloni)](https://github.com/hugofolloni/github-readme-stats)
+![HugoFolloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofolloni&show_icons=true&theme=dracula)
 
 <!---
 hugofolloni/hugofolloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
