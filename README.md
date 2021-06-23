@@ -17,4 +17,4 @@ Skills: JS / HTML / CSS
 
 ![HugoFolloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofolloni&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/hugofolloni/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hugofolloni/hugofolloni/blob/output/github-contribution-grid-snake.svg)
