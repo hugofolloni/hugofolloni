@@ -6,7 +6,7 @@ I'm a Computer Science student at UFRJ, Brazil, looking to work on this area.
 [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](https://github.com/hugofolloni)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://github.com/hugofolloni) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://github.com/hugofolloni) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='40'>](https://github.com/hugofolloni) 
 
 ### Listening to:
-[<img src="https://spotify-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) <img src='https://media1.tenor.com/images/abde8d9dbb4fcb0b07ce2586f39346f6/tenor.gif?itemid=16412621' width='200' alt'killuaGIF'>
+[<img src="https://spotify-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) [<img src='https://media1.tenor.com/images/abde8d9dbb4fcb0b07ce2586f39346f6/tenor.gif?itemid=16412621' width='200' alt'killuaGIF'>]
 
 ### Currently...:
 - 🔭 I’m currently working on CityWeather and some other personal projects.
