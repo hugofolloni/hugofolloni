@@ -9,8 +9,8 @@ I'm a Computer Science student at UFRJ, Brazil, looking to work on this area.
 [<img src="https://spotify-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) 
 
 ### Currently...:
-- 🔭 I’m currently working on CityWeather and some other personal projects.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on personal projects, trying to learn new stuff.
+- 🌱 I’m currently learning React and relearning Python.
 - 👯 I’m currently looking to collaborate on projetcs that will teach me and make me improve.
 
 ### Reach me:
