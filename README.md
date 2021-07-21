@@ -2,6 +2,8 @@
 #### I am a front-end web developer.
 I'm a Computer Science student at UFRJ, Brazil, looking to work on this area.
 
+[<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="devgif" width="350" />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) 
+
 ### Languages and Tools: 
 [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](https://github.com/hugofolloni) . [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://github.com/hugofolloni) . [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://github.com/hugofolloni) . [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='40'>](https://github.com/hugofolloni) . [<img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg' alt='c' height='40'>](https://github.com/hugofolloni) 
 
