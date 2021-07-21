@@ -19,6 +19,6 @@ I'm a Computer Science student at UFRJ, Brazil, looking to work on this area.
 ![HugoFolloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofolloni&show_icons=true&theme=radical)  <img src="https://media1.tenor.com/images/abde8d9dbb4fcb0b07ce2586f39346f6/tenor.gif?itemid=16412621" width="195" height="195" style='border-radius: 12%;'/> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofolloni&theme=radical&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofolloni&theme=radical&langs_count=8)
 
 ![Snake animation](https://github.com/hugofolloni/hugofolloni/blob/output/github-contribution-grid-snake.svg)
