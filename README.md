@@ -10,7 +10,7 @@ I'm a Computer Science student at UFRJ, Brazil, looking to work in this area.
 [<img src="https://spotify-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6)[<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="devgif" width="150"  />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) 
 
 ### Currently...:
-- 🔭 I’m currently working on personal projects, like HeyOBot, and trying to just improve.
+- 🔭 I’m currently working on personal projects and trying to just improve.
 - 🌱 I’m currently learning React, Node, and relearning Python.
 
 ### Reach me:
