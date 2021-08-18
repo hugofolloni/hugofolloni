@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Hugo Folloni
-#### I am a front-end web developer.
-I'm a Computer Science student at UFRJ (Universidade Federal do Rio de Janeiro / Rio de Janeiro Federal University), Brazil, looking to work in this area.
+#### I am a fullstack developer.
+I'm a Computer Science student at UFRJ (Universidade Federal do Rio de Janeiro / Rio de Janeiro Federal University), Brazil.
+Always trying to improve, current looking for an opportunity to grow as a professional.
 
 
 ### Languages and Tools: 
