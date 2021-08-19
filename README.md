@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hugo Folloni
 #### I am a fullstack developer.
-I'm a Computer Science student at UFRJ (Universidade Federal do Rio de Janeiro / Rio de Janeiro Federal University), Brazil.
+I'm a Computer Science student at UFRJ (Universidade Federal do Rio de Janeiro), Brazil.
 Always trying to improve, current looking for an opportunity to grow as a professional.
 
 
