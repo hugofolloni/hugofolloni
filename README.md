@@ -11,8 +11,8 @@ Always trying to improve, current looking for an opportunity to grow as a profes
 [<img src="https://spotify-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350">](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) [<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="devgif" width="150"  />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) 
 
 ### Currently...:
-- 🔭 I’m currently working on personal projects and trying to just improve.
-- 🌱 I’m currently learning React, Node, and relearning Python.
+- 🔭 I’m currently working on personal projects, doing 100-days-of-code and trying to just improve.
+- 🌱 I’m currently learning React.
 
 ### Reach me:
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://instagram.com/hugofolloni)  [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/hugofolloni)  [<img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' alt='steam' height='40'>](https://steamcommunity.com/id/hueyzin)  [<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='spotify' height='40'>](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6)  
