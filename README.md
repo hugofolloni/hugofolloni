@@ -11,7 +11,7 @@ Always trying to improve, current looking for an opportunity to grow as a profes
 [<img src="https://spotify-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350">](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) [<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="devgif" width="150"  />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) 
 
 ### Currently...:
-- 🔭 I’m currently working on personal projects, doing 100-days-of-code and trying to just improve.
+- 🔭 I’m currently working on personal projects, 100-days-of-code and trying to just improve.
 - 🌱 I’m currently learning React.
 
 ### Reach me:
