@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hugo Folloni
-#### I am a fullstack developer.
+#### I am a front-end developer.
 I'm a Computer Science student at UFRJ ([Universidade Federal do Rio de Janeiro](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro)), Brazil.
 Always trying to improve, currently looking for an opportunity to grow as a professional.
 
@@ -13,7 +13,7 @@ Always trying to improve, currently looking for an opportunity to grow as a prof
 [<img src="https://spotify-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350">](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) [<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="devgif" width="150"  />](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6) 
 
 ### Currently...:
-- 🔭 I’m currently working on personal projects, 100-days-of-code, my personal portfolio and trying to just improve.
+- 🔭 I’m currently working on personal projects that will make me improve.
 - 🌱 I’m currently learning React.
 
 ### Reach me:
