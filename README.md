@@ -11,7 +11,7 @@ Always trying to improve, currently looking for an opportunity to grow as a prof
 
 - Also
 
-[<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://github.com/hugofolloni) [<img src'=https://img.shields.io/badge/Java-db8c25?style=for-the-badge&logo=java&logoColor=white' alt='java' height='30'>](https://github.com/hugofolloni)
+[<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/Java-db8c25?style=for-the-badge&logo=java&logoColor=white' alt='java' height='30'>](https://github.com/hugofolloni)
 
 - Tools
 
