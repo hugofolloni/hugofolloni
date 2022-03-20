@@ -6,11 +6,14 @@ Always trying to improve, currently looking for an opportunity to grow as a prof
 
 ### Languages and Tools: 
 - Main Stack
+
 [<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='react' height='30'>](https://github.com/hugofolloni)[<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='js' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='30'>](https://github.com/hugofolloni) 
 
 - Also
-[<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://github.com/hugofolloni) [<img src'https://img.shields.io/badge/Java-db8c25?style=for-the-badge&logo=java&logoColor=white' alt='java' height='30'>](https://github.com/hugofolloni)
 
+[<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://github.com/hugofolloni) [<img src'=https://img.shields.io/badge/Java-db8c25?style=for-the-badge&logo=java&logoColor=white' alt='java' height='30'>](https://github.com/hugofolloni)
+
+- Tools
 
 [<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='node' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' alt='markdown' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' alt='heroku' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='heroku' height='30'>](https://github.com/hugofolloni)
 
