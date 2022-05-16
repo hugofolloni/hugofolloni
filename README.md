@@ -29,7 +29,7 @@ Always trying to improve, currently looking for an opportunity to grow as a prof
 
 ![HugoFolloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugofolloni&show_icons=true&theme=radical)  <img src="https://media1.tenor.com/images/abde8d9dbb4fcb0b07ce2586f39346f6/tenor.gif?itemid=16412621" width="195" height="195" style='border-radius: 12%;'/> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofolloni&layout=compact&langs_count=7&theme=radical&hide=php,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofolloni&layout=compact&langs_count=8&theme=radical&hide=php,jupyter%20notebook)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugofolloni&theme=radical)
 
