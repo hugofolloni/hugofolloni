@@ -11,7 +11,7 @@ Always trying to improve, currently looking for an opportunity to grow as a prof
 
 - Also
 
-[<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white' alt='java' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white' alt='julia' height='30'>](https://github.com/hugofolloni)
+[<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white' alt='java' height='30'>](https://github.com/hugofolloni) [<img src='https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white' alt='julia' height='30'>](https://github.com/hugofolloni)![<img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='cpp' height='30'>](https://github.com/hugofolloni)
 
 - Tools
 
@@ -22,7 +22,7 @@ Always trying to improve, currently looking for an opportunity to grow as a prof
 
 ### Currently...:
 - 🔭 I’m currently working on personal projects w/ React, and doing a undergraduate research project with Machine Teaching, using Django.
-- 🌱 I’m currently learning Django and Julia.
+- 🌱 I’m currently learning Julia amd C++.
 
 ### Reach me:
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://linkedin.com/in/hugofolloni)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://instagram.com/hugofolloni)  [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/hugofolloni)  [<img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' alt='steam' height='40'>](https://steamcommunity.com/id/hueyzin)  [<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='spotify' height='40'>](https://open.spotify.com/user/222ysmwoafqvdw435hrwqqsdi?si=1286829d904947e6)  
