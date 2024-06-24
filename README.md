@@ -1,7 +1,7 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-#### I am [**Hugo**](https://hugofolloni.netlify.app), a full-stack developer from Rio de Janeiro. 
+#### I am [**Hugo**](https://hugofolloni.netlify.app), a full-stack developer from Rio de Janeiro.
 
-I currently work as software engineer intern at [**@BigDataCorp**](https://bigdatacorp.com.br). Self-taught and curious, I always want to learn new things. I love to solve problems and think rationally about them, and that's why I love to code. Also, I'm a Computer Science student at [**@UFRJ**](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro).
+Passionate about technology since my childhood, made my hobby my job. I'm always trying to learn something new. I love to solve problems and think rationally about them, and that's why I love to code. I currently work as software engineer intern at [**@BigDataCorp**](https://bigdatacorp.com.br). Also, I'm a Computer Science student at [**@UFRJ**](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro).
 
 Outside of work, I spend most of my free time playing guitar and playing some competitive games such as Valorant and League of Legends.
 
