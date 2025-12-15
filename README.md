@@ -1,7 +1,7 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 #### I am [**Hugo**](https://hugofolloni.netlify.app), a full-stack developer from Rio de Janeiro.
 
-Passionate about technology since my childhood, made my hobby my job. I'm always trying to learn something new. I love to solve problems and think rationally about them, and that's why I love to code. I currently work as software engineer intern at [**@BigDataCorp**](https://bigdatacorp.com.br). Also, I'm a Computer Science student at [**@UFRJ**](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro).
+Passionate about technology since my childhood, made my hobby my job. I'm always trying to learn something new. I love to solve problems and think rationally about them, and that's why I love to code. I currently work as software engineer at [**@BigDataCorp**](https://bigdatacorp.com.br). Also, I hold a Bachelor of Science in Computer Science from [**@UFRJ**](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro).
 
 Outside of work, I spend most of my free time playing guitar and playing some competitive games such as Valorant and League of Legends.
 
@@ -33,7 +33,5 @@ Outside of work, I spend most of my free time playing guitar and playing some co
 <p> <img src='https://github-readme-stats.vercel.app/api?username=hugofolloni&show_icons=true&theme=radical'> &nbsp; <img src="https://media1.tenor.com/images/abde8d9dbb4fcb0b07ce2586f39346f6/tenor.gif?itemid=16412621" width="195" height="195" style='border-radius: 12%;'/> </p>
 
 
-<p><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hugofolloni&layout=compact&langs_count=10&theme=radical&hide=php,jupyter%20notebook,html,css'> &nbsp; <img src='https://github-readme-streak-stats.herokuapp.com/?user=hugofolloni&theme=radical' ></p>
-
-
-![Counter](https://profile-counter.glitch.me/hugofolloni/count.svg)
+<p><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hugofolloni&layout=compact&langs_count=10&theme=radical&hide=php,jupyter%20notebook,html,css'> &nbsp; 
+<!-- <img src='https://github-readme-streak-stats.herokuapp.com/?user=hugofolloni&theme=radical' ></p> -->
