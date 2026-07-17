@@ -8,7 +8,7 @@
       <ul>
         <li>💼 Currently developing high-performance data systems as a Full-Stack Engineer at <a href="https://bigdatacorp.com.br"><b>@BigDataCorp</b></a>.</li>
         <li>🎓 Hold a Bachelor of Science in Computer Science from the Federal University of Rio de Janeiro <a href="https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro"><b>@UFRJ</b></a>.</li>
-        <li>☕ When I'm not coding, you can find me working from a local café, spinning vinyl, or playing League of Legends and Valorant.</li>
+        <li>☕ When I'm not coding, you can find me working from a local café, playing guitar, spinning vinyl, or wasting time in League of Legends and Valorant.</li>
       </ul>
       <br>
     </td>
