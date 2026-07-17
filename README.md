@@ -56,5 +56,3 @@ My daily weapons of choice for building modern web applications and robust backe
     </td>
   </tr>
 </table>
-
-*Note: Stats cards are powered by a high-availability community proxy to prevent downtime.*
